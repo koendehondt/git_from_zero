@@ -11,3 +11,10 @@ git commit -m "…"
 git log --oneline
 git diff
 git restore <file>
+git pull
+git push
+git branch
+git switch -c <name>
+git switch <name>
+git merge <name>
+git merge --abort
